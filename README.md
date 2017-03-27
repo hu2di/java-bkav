@@ -1,2 +1,2 @@
 # java-bkav
-Introduction to Java
+Introduction to Java (Object-oriented programming)
